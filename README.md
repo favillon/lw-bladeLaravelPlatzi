@@ -32,4 +32,4 @@ php artisan migrate:fresh --seed
 
 Seguimiento a la fase 1
 
-!(Fase 1)[./public/images/fase1.png]
+![Fase 1](./public/images/fase1.png)
