@@ -33,3 +33,13 @@ php artisan migrate:fresh --seed
 Seguimiento a la fase 1
 
 ![Fase 1](./public/images/fase1.png)
+
+
+Creando Componente
+```shell
+php artisan make:livewire CourseList
+```
+
+Seguimiento a la fase 2
+
+![Fase 2](./public/images/fase2.png)

@@ -6,4 +6,6 @@
         <h2 class="text-xl text-gray-600">Carreta 1</h2>
         <h3 class="text-lg text-gray-600">Carreta 2</h3>
     </div>
+
+    <livewire:course-list />
 @endsection
